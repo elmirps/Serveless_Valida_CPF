@@ -1,4 +1,4 @@
-# **Como Criar um Microsserviço Serverless para Validação de CPF**
+# **Criando um Microsserviço Serverless para Validação de CPF**
 
 Neste estudo mostra como criar um microsserviço serverless utilizando o **Azure Functions** para validar CPFs de forma simples. Utilizaremos uma função HTTP para receber uma solicitação e validar o CPF fornecido.
 
